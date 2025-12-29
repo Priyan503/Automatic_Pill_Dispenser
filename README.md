@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Abstract 
 An automatic pill dispenser is a microcontroller-based device designed to manage and 
 dispense prescribed medication at fixed time intervals. This project aims to assist 
@@ -53,3 +54,6 @@ are ensured.
 4. Trigger buzzer and display message on LCD. 
 5. Wait for user confirmation or timeout before resuming countdown. 
 6. Repeat for subsequent intervals.
+=======
+# Automatic_Pill_Dispenser
+>>>>>>> eda393650405cb857baf7a1f310a57f3af86b3d1
