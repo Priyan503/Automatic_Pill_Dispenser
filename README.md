@@ -12,9 +12,7 @@ affordable, standalone system that enhances medication adherence and reduces dos
 
 ## Introduction
 
-<p align="center">
-  <img src="demo.gif" alt="Automatic Pill Dispenser Demo" width="100%">
-</p>
+![demo](demo.gif)
 
 ## Objectives
 • To design a compact, user-friendly pill dispenser.
