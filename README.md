@@ -11,7 +11,10 @@ user awareness. The project integrates basic hardware and software components to
 affordable, standalone system that enhances medication adherence and reduces dosage errors.
 
 ## Introduction
-![demo](./demo.gif)
+
+<p align="center">
+  <img src="demo.gif" alt="Automatic Pill Dispenser Demo" width="100%">
+</p>
 
 ## Objectives
 • To design a compact, user-friendly pill dispenser.
