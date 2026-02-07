@@ -9,6 +9,7 @@ programmed system triggers an alert mechanism using a buzzer and LCD display, en
 user awareness. The project integrates basic hardware and software components to create an 
 affordable, standalone system that enhances medication adherence and reduces dosage errors. 
 Introduction 
+![demo](./demo.gif)
 ## Overview 
 In modern healthcare, medication management plays a crucial role, particularly for patients 
 requiring multiple doses daily. Manual pill administration can lead to errors. The automatic 
