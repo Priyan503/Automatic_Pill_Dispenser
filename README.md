@@ -10,7 +10,7 @@ programmed system triggers an alert mechanism using a buzzer and LCD display, en
 user awareness. The project integrates basic hardware and software components to create an
 affordable, standalone system that enhances medication adherence and reduces dosage errors.
 
-## Introduction
+## Demo
 
 ![demo](demo.gif)
 
